@@ -6,3 +6,5 @@
 ## Update the stops if the bus changes its stopping points. Add more busses and their routes.
 # Quick Access
 ## <a href="https://mmckinnon6015.github.io/realtimebustracker">Bus Tracker Map Exercise </a>
+# License information
+## [LICENSE.md](/LICENSE.md)
